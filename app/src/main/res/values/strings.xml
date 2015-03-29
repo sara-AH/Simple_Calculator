@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smple_Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="c">C</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="m">M+</string>
+    <string name="back">Back</string>
+    <string name="n">N</string>
+    <string name="plus">÷</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="mult">x</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="min">—</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plu">+</string>
+    <string name="equal">=</string>
+    <string name="zero">0</string>
+    <string name="view2"></string>
+
+
+</resources>
